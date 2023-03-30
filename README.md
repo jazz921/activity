@@ -2,4 +2,4 @@
 
 ## Screenshot
 
-![final-build-screenshot](https://user-images.githubusercontent.com/84715428/228729062-b99ac179-8539-4bfb-983b-9aee8500143c.png)
+![screenshot](https://user-images.githubusercontent.com/84715428/228775172-e3d86134-32c4-45b0-8fb0-c2f3dfc56a24.png)
