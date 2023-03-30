@@ -4,8 +4,8 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  // font-family: "Noto Sans", sans-serif;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Noto Sans", sans-serif;
+  // font-family: Arial, Helvetica, sans-serif;
 }
 
 .section {
@@ -61,7 +61,6 @@
         background: transparent;
         color: white;
         font-weight: bold;
-        // width: 100px;
 
         & option {
           background: white;
@@ -81,12 +80,12 @@
       &__buttons {
         & button {
           margin-right: 10px;
-          background-color: #15171a;
+          background-color: rgba(24, 24, 24, 0.5);
           color: rgb(157, 157, 157);
           padding: 11px 15px;
           border-radius: 0.5rem;
           outline: none;
-          border: 1px solid #15171a;
+          border: 1px solid rgba(24, 24, 24, 0.5);
           font-size: 0.8rem;
           font-weight: 600;
 
@@ -143,7 +142,7 @@
       height: 100%;
       padding: 30px 55px;
       background: rgba(58, 54, 54, 0.4);
-      backdrop-filter: blur(15px);
+      backdrop-filter: blur(10px);
       box-shadow: 0px 0px 30px rgba(12, 15, 17, 0.9);
       border-radius: 20px;
       display: flex;
@@ -182,6 +181,7 @@
                 text-align: center;
                 border-bottom-left-radius: 0px;
                 border-top-left-radius: 0px;
+                padding-right: 25px;
               }
             }
 
@@ -278,6 +278,7 @@
   & .letter-D {
     position: absolute;
     right: 20px;
+    top: 11px;
     color: rgb(116, 102, 102);
   }
 
