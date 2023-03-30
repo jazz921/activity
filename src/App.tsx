@@ -38,7 +38,7 @@ function App() {
             <button>Conclusion</button>
           </div>
           <div className="section__header__menu__progress">
-            <p className="">50%</p>
+            <p>50<span>%</span></p>
             <div className="progress-bar-container">
               <div className="progress-bar"></div>
             </div>

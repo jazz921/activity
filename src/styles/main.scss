@@ -104,6 +104,12 @@
         & p {
           align-self: end;
           font-size: 0.8rem;
+          margin-bottom: 5px;
+          color: rgb(248, 245, 245);
+          
+          & span {
+            font-size: .75rem;
+          }
         }
 
         .progress-bar-container {
